@@ -27,3 +27,8 @@ function windowResized() {
     blendMode(BLEND);
     background('#757575');
 }
+
+function touchMoved() {
+    // Evita que el navegador desplace la página mientras dibujas con el dedo.
+    return false;
+}
