@@ -1,0 +1,2 @@
+Coloca aquí ABCAsfaltExtendedTrial-Medium.otf.
+Puedes probar con otra fuente .otf o .ttf cambiando FUENTE en sketch.js.
